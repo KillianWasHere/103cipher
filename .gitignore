@@ -1,0 +1,9 @@
+.vscode
+a.out
+*.txt
+*~
+*.#
+.nopush
+*.o
+*.a
+103cipher
